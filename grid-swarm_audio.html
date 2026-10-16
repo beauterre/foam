@@ -629,9 +629,9 @@ function animate(time) {
     } else {
         phase = 0;
     }    
-    nrofParticles = Math.ceil(phase*PARTICLE_COUNT);
+    nrofParticles = Math.floor(phase*PARTICLE_COUNT);
     nrofVoices = phase > 0
-    ? Math.max(1, Math.ceil(25 * phase))
+    ? Math.max(1, Math.floor(25 * phase))
     : 0;
 
     updateParticles();
