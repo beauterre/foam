@@ -5,6 +5,8 @@
 
 https://beauterre.github.io/foam/
 
+https://beauterre.github.io/foam/grid-swarm_audio.html
+
 Thousands of tiny colored particles drift across a full-screen canvas, forming a constantly evolving field of luminous cells. Colors gather, blend, shimmer, and dissolve. Fleeting structures emerge from apparent randomness, hold together for a moment, and then disperse into new formations.
 
 The result feels like **a massage for the eyes**: a gentle, hypnotic visual rhythm somewhere between glowing foam, bioluminescent water, a field of distant stars, and a living microscopic world.
